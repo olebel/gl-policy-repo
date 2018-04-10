@@ -1,0 +1,11 @@
+{
+  "name": "gl_prod",
+  "default_attributes": {
+  },
+  "json_class": "Chef::Environment",
+  "description": "GL Camp Production Environment",
+  "cookbook_versions": {
+    "gl_mysql" : "= 1.1.9"
+  },
+  "chef_type": "environment"
+}
