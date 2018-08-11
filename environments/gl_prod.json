@@ -6,6 +6,7 @@
   "description": "GL Camp Production Environment",
   "cookbook_versions": {
     "gl_mysql" : "= 0.2.0"
+    "gl_base" : "= 1.0.0"
   },
   "chef_type": "environment"
 }
