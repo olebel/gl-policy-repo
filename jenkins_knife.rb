@@ -7,3 +7,4 @@ node_name                'admin'
 client_key               "#{current_dir}/admin.pem"
 chef_server_url          'https://chef.local/organizations/gl_camp'
 cookbook_path            ["#{current_dir}/../cookbooks"]
+ssl_verify_mode          :verify_none
