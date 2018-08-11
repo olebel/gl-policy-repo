@@ -5,7 +5,7 @@
   "json_class": "Chef::Environment",
   "description": "GL Camp Production Environment",
   "cookbook_versions": {
-    "gl_mysql" : "= 1.1.9"
+    "gl_mysql" : "= 0.2.0"
   },
   "chef_type": "environment"
 }
